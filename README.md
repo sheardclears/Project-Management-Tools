@@ -47,6 +47,8 @@ Dalam pelaksanaan proyek, dibentuk sebuah jadwal pengerjaan sebagai bentuk manaj
 
 <img src="Photos/tugas.png" alt="app-screen" width="500" />
 
+<img src="Photos/penjabaran-tugas.png" alt="app-screen" width="500" />
+
 Studi Kasus ini diimplementasikan pada kedua perangkat. 
-1. [Asana]
+1. [Asana](https://github.com/sheardclears/Project-Management-Tools/blob/776b71d9d729f552dad0c9748cb611f9f22278ee/Files/Studi%20Kasus%20-%20Asana.pdf)
 2. [Focalboard]
