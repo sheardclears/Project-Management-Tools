@@ -16,7 +16,7 @@ Cons:
 3. Tidak cocok untuk tugas sederhana atau tim yang berukuran kecil.
 
 #### Dokumentasi
-Untuk mengetahui lebih lanjut terkait dokumentasi dari penggunaan Asana, sila tekan tombol [di sini](https://github.com/sheardclears/Tutorial-PM-Tools-Asana-Focalboard/blob/9d961caa42584992f9ef01b6772f85a69d1c6c26/Dokumentasi%20Asana.pdf).
+Untuk mengetahui lebih lanjut terkait dokumentasi dari penggunaan Asana, sila tekan tombol [di sini](https://github.com/sheardclears/Project-Managements-Tools/blob/535cad9fd6e3499739f838780a35c555a0f242be/Files/Dokumentasi%20Asana.pdf).
 
 ## Focalboard
 <img src="Photos/focalboard.png" alt="app-screen" width="300" />
@@ -34,12 +34,15 @@ Cons:
 3. Belum ada fitur penggunaan *artificial intelligence*.
 
 #### Dokumentasi
-Untuk mengetahui lebih lanjut terkait dokumentasi dari penggunaan Focalboard, sila tekan tombol [di sini](https://github.com/sheardclears/Tutorial-PM-Tools-Asana-Focalboard/blob/9d961caa42584992f9ef01b6772f85a69d1c6c26/Dokumentasi%20Focalboard.pdf).
+Untuk mengetahui lebih lanjut terkait dokumentasi dari penggunaan Focalboard, sila tekan tombol [di sini](https://github.com/sheardclears/Project-Managements-Tools/blob/535cad9fd6e3499739f838780a35c555a0f242be/Files/Dokumentasi%20Focalboard.pdf).
 
 # Studi Kasus
 Judul: [Manajemen Proyek Pengembangan Sistem Informasi (Studi Kasus: Sistem Penilaian CPL Informatika UII)](https://dspace.uii.ac.id/handle/123456789/29689)
 
-Studi kasus ini berisikan sebuah manajemen proyek terkait dengan proyek Sistem Penilaian CPL Informatika di Universitas Islam Indonesia. 
+Studi kasus ini berisikan sebuah manajemen proyek terkait dengan proyek Sistem Penilaian CPL Informatika di Universitas Islam Indonesia dengan tim beranggotakan sebagai berikut:
+<img src="Photos/tim.png" alt="app-screen" width="500" />
+Dalam pelaksanaan proyek, dibentuk sebuah jadwal pengerjaan sebagai bentuk manajemen proyek.
+<img src="Photos/tugas.png" alt="app-screen" width="500" />
 
 Studi Kasus ini diimplementasikan pada kedua perangkat. 
 1. [Asana]
