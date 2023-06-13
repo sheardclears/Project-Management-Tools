@@ -36,6 +36,8 @@ Cons:
 #### Dokumentasi
 Untuk mengetahui lebih lanjut terkait dokumentasi dari penggunaan Focalboard, sila tekan tombol [di sini](https://github.com/sheardclears/Project-Managements-Tools/blob/535cad9fd6e3499739f838780a35c555a0f242be/Files/Dokumentasi%20Focalboard.pdf).
 
+
+
 # Studi Kasus
 Judul: [Manajemen Proyek Pengembangan Sistem Informasi (Studi Kasus: Sistem Penilaian CPL Informatika UII)](https://dspace.uii.ac.id/handle/123456789/29689)
 
