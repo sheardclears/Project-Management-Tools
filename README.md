@@ -40,8 +40,11 @@ Untuk mengetahui lebih lanjut terkait dokumentasi dari penggunaan Focalboard, si
 Judul: [Manajemen Proyek Pengembangan Sistem Informasi (Studi Kasus: Sistem Penilaian CPL Informatika UII)](https://dspace.uii.ac.id/handle/123456789/29689)
 
 Studi kasus ini berisikan sebuah manajemen proyek terkait dengan proyek Sistem Penilaian CPL Informatika di Universitas Islam Indonesia dengan tim beranggotakan sebagai berikut:
+
 <img src="Photos/tim.png" alt="app-screen" width="500" />
+
 Dalam pelaksanaan proyek, dibentuk sebuah jadwal pengerjaan sebagai bentuk manajemen proyek.
+
 <img src="Photos/tugas.png" alt="app-screen" width="500" />
 
 Studi Kasus ini diimplementasikan pada kedua perangkat. 
